@@ -1,7 +1,9 @@
-# ✨ ends justify the means ✨
+## ✨ ends justify the means ✨
 
 ## About:
-(WIP)
+Hi, I'am Zoe Zając. <br/>
+<br/>
+Still (WIP)
 
 ## See also:
 -  [undefinedrabb.it](https://undefinedrabb.it)
